@@ -2,7 +2,7 @@ import { WhatsApp } from "./Icons";
 import { STATS } from "../data/stats";
 
 const WA =
-  "https://wa.me/250780000000?text=Hello%20Olgate%20Ltd%2C%20I%27d%20like%20to%20learn%20more%20about%20your%20services.";
+  "https://wa.me/250788740653?text=Hello%20Olgate%20Ltd%2C%20I%27d%20like%20to%20learn%20more%20about%20your%20services.";
 
 export default function Hero() {
   return (

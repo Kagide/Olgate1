@@ -7,7 +7,7 @@ const MSG = encodeURIComponent(
 export default function WhatsAppButton() {
   return (
     <a
-      href={`https://wa.me/250780000000?text=${MSG}`}
+      href={`https://wa.me/250788740653?text=${MSG}`}
       target="_blank"
       rel="noopener noreferrer"
       className="wa-float"

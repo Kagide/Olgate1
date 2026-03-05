@@ -1,7 +1,3 @@
-/**
- * OLGATE LTD — Stats Data
- * Used by StatsBar and Hero section.
- */
 
 export const STATS = [
   {
