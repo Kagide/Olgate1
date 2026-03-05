@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef, useCallback } from "react";
-import useReveal from "../hooks/useReveal";
+import useReveal from "../Hooks/useReveal";
 import TestimonialCard from "./TestimonialCard";
 import { ChevronLeft, ChevronRight } from "./Icons";
 import { TESTIMONIALS } from "../data/testimonials";

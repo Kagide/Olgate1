@@ -1,7 +1,7 @@
 import Hero from '../components/Hero'
 import Services from '../components/Services'
 import WhyChooseUs from '../components/WhyChooseUs'
-import StatsBar from '../components/StatsBar'
+import StatsBar from "../components/StatsBar.jsx";
 import TestimonialCarousel from '../components/TestimonialCarousel'
 import ContactForm from '../components/ContactForm'
 

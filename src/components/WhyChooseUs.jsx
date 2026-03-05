@@ -1,4 +1,4 @@
-import useReveal from "../hooks/useReveal";
+import useReveal from "../Hooks/useReveal";
 import { Award, Users, Clock, Shield, Headphones, CheckCircle } from "./Icons";
 
 const FEATURES = [

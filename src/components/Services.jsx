@@ -1,4 +1,4 @@
-import useReveal from "../hooks/useReveal";
+import useReveal from "../Hooks/useReveal";
 import ServiceCard from "./ServiceCard";
 import { SERVICES } from "../data/services";
 
